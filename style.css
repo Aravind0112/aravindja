@@ -1,0 +1,78 @@
+img {
+    border-radius: 50%;
+    height: 150px;
+    width: 200px;
+}
+
+h1 {
+    text-align: left;
+    color: darkblue;
+    font-style: italic;
+}
+
+button {
+    background-color: gold;
+    border: 1.5px solid black;
+    font-style: italic;
+}
+
+h3 {
+    text-align: left;
+    color: darkblue;
+    font-style: italic;
+}
+
+header {
+    background-color: whitesmoke;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+body {
+    padding: 10px;
+}
+
+#about {
+    background-color: whitesmoke;
+    padding: 25px;
+}
+
+h4 {
+    text-align: left;
+    color: darkblue;
+    font-style: normal;
+}
+
+#aa {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#ab {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+p {
+    color: black;
+}
+
+footer {
+    background-color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+    margin-top: 40px;
+}
+
+#e {
+    color: darkblue;
+}
+#edu, th, td {
+    border: 2.5px solid black;
+}
+h6 {
+    color: darkblue;
+}
